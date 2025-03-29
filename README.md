@@ -76,5 +76,5 @@ databootcamp_module14/
 
 ## ✍️ Author
 
-Denver Ero  
+Seven G  
 [GitHub Profile](https://github.com/denverero)
